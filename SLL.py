@@ -20,6 +20,9 @@ class LinkedList:
         while temp:
             print(temp.data)
             temp=temp.next
+            
+
+
 
 list = LinkedList()
 n1= Node(10)
